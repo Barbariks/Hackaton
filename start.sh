@@ -1,0 +1,1 @@
+cd backend_Main_File/build && make && ./backend_Main_File
